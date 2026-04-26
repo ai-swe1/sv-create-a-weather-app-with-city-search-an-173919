@@ -1,0 +1,5 @@
+/* Add custom styles here, e.g. brand colors */
+:root {
+  --primary-color: #3498db;
+  --secondary-color: #f1c40f;
+}
